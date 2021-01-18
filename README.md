@@ -1,3 +1,3 @@
-# book-of-knowledge
+# Winlink FAQ
 
 See the wiki
