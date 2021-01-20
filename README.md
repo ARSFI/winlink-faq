@@ -1,3 +1,3 @@
 # Winlink FAQ
 
-See the wiki
+See the wiki - https://github.com/ARSFI/winlink-faq/wiki
